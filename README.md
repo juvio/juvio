@@ -8,6 +8,7 @@
 [Linkedin](https://www.linkedin.com/in/juliana-vieira-oliveira/) - [Instagram](https://instagram.com/juhvio) - [Gmail](julianavieirao.ppg@gmail.com)
 <br>
 <br>
+[![HitCount](http://hits.dwyl.com/juvio/juvio.svg)](http://hits.dwyl.com/juvio/juvio)
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=juvio&show_icons=true" />
 <br>
